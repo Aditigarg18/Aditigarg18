@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I’m currently working on: Instagram Reach Analysis<br>👯 I like to use innovative ideas and implement in project<br>🌱 I’m currently learning:ReactJs<br>⚡ Fun fact:The best way to predict the future is to invent it
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-garg-a279a1228/) 
